@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\h2bParser.h(81,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\h2bParser.h(96,22): warning C4018: '<': signed/unsigned mismatch
+  **Dependency Test Output**
+  **End Dependency Test Output**
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\level.h(46,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\level.h(53,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\Gateware\Gateware.h(17100,4): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\render.h(61): message : see reference to function template instantiation 'GW::GReturn GW::MATH::GMatrix::ProjectionOpenGLLHF<double,float&,double,int,GW::MATH::GMATRIXF&>(double &&,float &,double &&,int &&,GW::MATH::GMATRIXF &)' being compiled
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\Gateware\Gateware.h(17100,4): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\Gateware\Gateware.h(17083,4): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\render.h(292): message : see reference to function template instantiation 'GW::GReturn GW::MATH::GMatrix::RotateYGlobalF<GW::MATH::GMATRIXF&,double,GW::MATH::GMATRIXF&>(GW::MATH::GMATRIXF &,double &&,GW::MATH::GMATRIXF &)' being compiled
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\Gateware\Gateware.h(17082,4): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\Assignment3_OpenGL\render.h(293): message : see reference to function template instantiation 'GW::GReturn GW::MATH::GMatrix::RotateXLocalF<GW::MATH::GMATRIXF&,double,GW::MATH::GMATRIXF&>(GW::MATH::GMATRIXF &,double &&,GW::MATH::GMATRIXF &)' being compiled
+  Assignment3_OpenGL.vcxproj -> C:\Users\jaime\Documents\School\DEV4\Week_3_Handout\DEV4_3\Assignment3_OpenGL\x64\Debug\Assignment3_OpenGL.exe
