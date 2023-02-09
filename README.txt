@@ -4,5 +4,4 @@ Camera Controls
 	"Shift" & "Space" for Up and Down
 	Move the Mouse to Rotate
 	
-
-Made a github project mostly with TortoiseGit Screenshots are in folder
+	Controls are a little wonky
